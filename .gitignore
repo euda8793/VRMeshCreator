@@ -8,3 +8,6 @@ addons/
 # Mono-specific ignores
 .mono/
 data_*/
+..gitignore.un~
+.gitignore.swp
+.gitignore~
